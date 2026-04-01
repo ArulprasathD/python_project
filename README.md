@@ -24,7 +24,7 @@ This dataset was created for **practice purposes** and includes patient-related 
 ---
 
 # 🧾 Dataset Columns
-
+ 
 The dataset contains the following columns:
 
 | Column Name | Description |
