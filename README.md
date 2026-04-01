@@ -6,7 +6,7 @@ This project is based on a **Hospital Patient Dataset** containing **500 patient
 The main purpose of this project is to practice and demonstrate **Python for Data Analysis**, **Data Cleaning**, **Missing Value Handling**, **Visualization**, and **Machine Learning**.
 
 This project is very useful for beginners who are learning:
-
+ 
 - 🐍 Python
 - 📊 Pandas
 - 🔢 NumPy
